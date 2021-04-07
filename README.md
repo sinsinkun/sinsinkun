@@ -14,15 +14,15 @@ My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with
 <table>
   <tr>
     <th>Javascript</th>
-    <td>80% Comfort</td>
+    <td>90% Comfort</td>
   </tr>
   <tr>
     <th>HTML/CSS</th>
-    <td>80% Comfort</td>
+    <td>85% Comfort</td>
   </tr>
   <tr>
     <th>ReactJS</th>
-    <td>70% Comfort</td>
+    <td>75% Comfort</td>
   </tr>
   <tr>
     <th>C#</th>
