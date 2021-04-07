@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sinsinkun.sinsinkun)
+
 My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with a Bachelor's degree in Mechanical Engineering. I've had personal projects in coding on and off ever since University, and have recently gotten more serious about finding a career in the Software Development industry.
 
 ### Contact Me:
@@ -9,29 +11,41 @@ My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with
 
 
 ### Languages/technologies I'm familiar with, in descending order of familiarity:
-* JS
-* HTML/CSS
-* ReactJS
-* NodeJS
-* MongoDB
-* SQL
-* ExpressJS
-* C#
-* C
-* Assembly
-
-
-<!--
-**sinsinkun/sinsinkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <th>Javascript</th>
+    <td>80% Comfort</td>
+  </tr>
+  <tr>
+    <th>HTML/CSS</th>
+    <td>80% Comfort</td>
+  </tr>
+  <tr>
+    <th>ReactJS</th>
+    <td>70% Comfort</td>
+  </tr>
+  <tr>
+    <th>C#</th>
+    <td>70% Comfort</td>
+  </tr>
+  <tr>
+    <th>MongoDB/non-relational databases</th>
+    <td>70% Comfort</td>
+  </tr>
+  <tr>
+    <th>SQL DB/relational databases</th>
+    <td>70% Comfort</td>
+  </tr>
+  <tr>
+    <th>Express/micro-server management</th>
+    <td>70% Comfort</td>
+  </tr>
+  <tr>
+    <th>C</th>
+    <td>60% Comfort</td>
+  </tr>
+  <tr>
+    <th>Assembly</th>
+    <td>30% Comfort</td>
+  </tr>
+</table>
