@@ -1,4 +1,4 @@
-## Welcome to my github
+## Welcome to My Github
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sinsinkun.sinsinkun)
 
@@ -7,7 +7,7 @@ My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with
 ### Contact Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-242424?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jingchang-xiao/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-242424?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=ffffff)](mailto:chang.x1994@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-chang.x1994@gmail.com-242424?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=ffffff)](mailto:chang.x1994@gmail.com)
 
 
 ### Languages/technologies I'm familiar with
