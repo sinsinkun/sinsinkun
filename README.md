@@ -4,7 +4,7 @@ My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with
 
 ### Contact Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jingchang-xiao/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jingchang-xiao/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=ffffff)](mailto:chang.x1994@gmail.com)
 
 
