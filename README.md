@@ -22,23 +22,23 @@ My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with
   </tr>
   <tr>
     <th>ReactJS</th>
-    <td>75% Comfort</td>
+    <td>80% Comfort</td>
   </tr>
   <tr>
     <th>C#</th>
-    <td>70% Comfort</td>
+    <td>75% Comfort</td>
   </tr>
   <tr>
     <th>MongoDB/non-relational databases</th>
-    <td>70% Comfort</td>
+    <td>75% Comfort</td>
   </tr>
   <tr>
     <th>SQL DB/relational databases</th>
-    <td>70% Comfort</td>
+    <td>75% Comfort</td>
   </tr>
   <tr>
     <th>Express/micro-server management</th>
-    <td>70% Comfort</td>
+    <td>75% Comfort</td>
   </tr>
   <tr>
     <th>C</th>
