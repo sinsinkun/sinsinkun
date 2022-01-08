@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sinsinkun.sinsinkun)
 
-My name is (Jing)Chang Xiao, I am currently heading the development team at BrokerPocket, a private online platform for real estate agents to exchange listings and related information confidentially. At this company, I have gained a lot of experience not only with front end web development and back end architecture design, but also experience in project management and team leadership.
+My name is (Jing)Chang Xiao, I am currently heading the development team at BrokerPocket, a private online platform for real estate agents to exchange listings and related information confidentially. In this position, I have gained a lot of experience not only with front end web development and back end architecture design, but also experience in project management and team leadership.
 
 ### Contact Me
 
