@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sinsinkun.sinsinkun)
 
-My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with a Bachelor's degree in Mechanical Engineering. I've had personal projects in coding on and off ever since University, and have recently gotten more serious about finding a career in the Software Development industry.
+My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with a Bachelor's degree in Mechanical Engineering. I am currently heading the development team at BrokerPocket, a private online platform for real estate agents to exchange listings and related information confidentially.
 
 ### Contact Me
 
@@ -39,6 +39,10 @@ My name is (Jing)Chang Xiao, I am a graduate from the University of Toronto with
   <tr>
     <th>Express/micro-server management</th>
     <td>75% Comfort</td>
+  </tr>
+  <tr>
+    <th>Terraform/AWS architecture management</th>
+    <td>60% Comfort</td>
   </tr>
   <tr>
     <th>C</th>
