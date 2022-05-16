@@ -14,6 +14,14 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
 <table>
   <tr>
     <th>Javascript</th>
+    <td>95% Comfort</td>
+  </tr>
+  <tr>
+    <th>ReactJS</th>
+    <td>95% Comfort</td>
+  </tr>
+  <tr>
+    <th>MongoDB/non-relational databases</th>
     <td>90% Comfort</td>
   </tr>
   <tr>
@@ -21,16 +29,8 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>85% Comfort</td>
   </tr>
   <tr>
-    <th>ReactJS</th>
+    <th>Terraform/AWS architecture management</th>
     <td>80% Comfort</td>
-  </tr>
-  <tr>
-    <th>C#</th>
-    <td>75% Comfort</td>
-  </tr>
-  <tr>
-    <th>MongoDB/non-relational databases</th>
-    <td>75% Comfort</td>
   </tr>
   <tr>
     <th>SQL DB/relational databases</th>
@@ -41,7 +41,11 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>75% Comfort</td>
   </tr>
   <tr>
-    <th>Terraform/AWS architecture management</th>
+    <th>C#</th>
+    <td>65% Comfort</td>
+  </tr>
+  <tr>
+    <th>Rust</th>
     <td>60% Comfort</td>
   </tr>
   <tr>
@@ -50,6 +54,6 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
   </tr>
   <tr>
     <th>Assembly</th>
-    <td>30% Comfort</td>
+    <td>25% Comfort</td>
   </tr>
 </table>
