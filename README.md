@@ -31,6 +31,10 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>80% Comfort</td>
   </tr>
   <tr>
+    <th>Rust</th>
+    <td>70% Comfort</td>
+  </tr>
+  <tr>
     <th>SQL DB/relational databases</th>
     <td>75% Comfort</td>
   </tr>
@@ -40,11 +44,7 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
   </tr>
   <tr>
     <th>Svelte</th>
-    <td>50% Comfort</td>
-  </tr>
-  <tr>
-    <th>Rust</th>
-    <td>50% Comfort</td>
+    <td>60% Comfort</td>
   </tr>
   <tr>
     <th>C#</th>
