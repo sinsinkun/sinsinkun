@@ -36,7 +36,7 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
   </tr>
   <tr>
     <th>SQL DB/relational databases</th>
-    <td>75% Comfort</td>
+    <td>65% Comfort</td>
   </tr>
   <tr>
     <th>Express/micro-server management</th>
