@@ -31,19 +31,19 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>80% Comfort</td>
   </tr>
   <tr>
+    <th>Express/micro-server management</th>
+    <td>80% Comfort</td>
+  </tr>
+  <tr>
     <th>Rust</th>
     <td>70% Comfort</td>
   </tr>
   <tr>
+    <th>Svelte/Sveltekit</th>
+    <td>70% Comfort</td>
+  </tr>
+  <tr>
     <th>SQL DB/relational databases</th>
-    <td>65% Comfort</td>
-  </tr>
-  <tr>
-    <th>Express/micro-server management</th>
-    <td>65% Comfort</td>
-  </tr>
-  <tr>
-    <th>Svelte</th>
     <td>60% Comfort</td>
   </tr>
   <tr>
