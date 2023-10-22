@@ -6,7 +6,7 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-242424?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jingchang-xiao/)
 [![Gmail Badge](https://img.shields.io/badge/-chang.x1994@gmail.com-242424?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=ffffff)](mailto:chang.x1994@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-242424?style=for-the-badge&labelColor=0088CC&logo=react&logoColor=ffffff)](https://changxiao.me)
+[![Website Badge](https://img.shields.io/badge/-Website-242424?style=for-the-badge&labelColor=FF3E00&logo=svelte&logoColor=ffffff)](https://changxiao.me)
 
 ### Languages/technologies I'm familiar with
 <table>
