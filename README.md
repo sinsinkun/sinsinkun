@@ -47,6 +47,10 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>60% Comfort</td>
   </tr>
   <tr>
+    <th>C++</th>
+    <td>60% Comfort</td>
+  </tr>
+  <tr>
     <th>C#</th>
     <td>50% Comfort</td>
   </tr>
