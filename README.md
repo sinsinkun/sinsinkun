@@ -27,6 +27,10 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>85% Comfort</td>
   </tr>
   <tr>
+    <th>Svelte/Sveltekit</th>
+    <td>85% Comfort</td>
+  </tr>
+  <tr>
     <th>Terraform/AWS architecture management</th>
     <td>80% Comfort</td>
   </tr>
@@ -35,11 +39,11 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>80% Comfort</td>
   </tr>
   <tr>
-    <th>Rust</th>
+    <th>C++</th>
     <td>70% Comfort</td>
   </tr>
   <tr>
-    <th>Svelte/Sveltekit</th>
+    <th>Rust</th>
     <td>70% Comfort</td>
   </tr>
   <tr>
@@ -47,7 +51,7 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>60% Comfort</td>
   </tr>
   <tr>
-    <th>C++</th>
+    <th>C</th>
     <td>60% Comfort</td>
   </tr>
   <tr>
@@ -55,7 +59,7 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>50% Comfort</td>
   </tr>
   <tr>
-    <th>C</th>
+    <th>Java</th>
     <td>50% Comfort</td>
   </tr>
   <tr>
