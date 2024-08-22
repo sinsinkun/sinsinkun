@@ -39,6 +39,10 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
     <td>80% Comfort</td>
   </tr>
   <tr>
+    <th>Java</th>
+    <td>70% Comfort</td>
+  </tr>
+  <tr>
     <th>C++</th>
     <td>70% Comfort</td>
   </tr>
@@ -48,7 +52,7 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
   </tr>
   <tr>
     <th>SQL DB/relational databases</th>
-    <td>60% Comfort</td>
+    <td>70% Comfort</td>
   </tr>
   <tr>
     <th>C</th>
@@ -56,10 +60,6 @@ My name is (Jing)Chang Xiao, I am currently heading the development team at Brok
   </tr>
   <tr>
     <th>C#</th>
-    <td>50% Comfort</td>
-  </tr>
-  <tr>
-    <th>Java</th>
     <td>50% Comfort</td>
   </tr>
   <tr>
