@@ -2,7 +2,7 @@
 
 My name is (Jing)Chang Xiao, I am currently a Fullstack Developer at Mark43, a software provider for public safety agencies across the US.
 In this position I work with a wide variety of technologies, from SQL databases, Java backends, Docker containers, to ReactJS frontends.
-It has been a great learning experience, and to see how it all connects to form a complex network of custom built systems that would otherwise be handled
+It has been a great learning experience to see how it all connects to form a complex network of custom built systems that would otherwise be handled
 by cloud providers like AWS or Azure.
 
 Previously, I headed the development team at BrokerPocket, a private online platform for real estate agents to exchange listings and related information confidentially.
