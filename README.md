@@ -6,8 +6,8 @@ It has been a great learning experience, and to see how it all connects to form 
 by cloud providers like AWS or Azure.
 
 Previously, I headed the development team at BrokerPocket, a private online platform for real estate agents to exchange listings and related information confidentially.
-In this position, I gained a lot of experience not only with front end web development and back end architecture design,
-but also experience in project management and team leadership.
+In this position, I worked with some of the same technologies like ReactJS and associated libraries like Redux, but also some different ones like MongoDB and NodeJS based microservices. 
+I also worked extensively with Terraform for designing AWS architectural systems, as well as various scripting languages like Bash and Python.
 
 ### Contact Me
 
